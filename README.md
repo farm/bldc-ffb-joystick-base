@@ -1,10 +1,11 @@
 # bldc-ffb-joystick-base
 This project contains CAD files needed to perform mechanical assembly of a base for FFB joystick.
 
-3d-print-parts contains all elements which need to be printed
-sheet-metal-parts contains drawing for case parts, including holes and bending profiles
-assembly caontains full STP assembly, and you can preview it online at https://autode.sk/3tObyss
-
+3d-print-parts - all elements which need to be printed  
+sheet-metal-parts - drawings for case parts, including holes and bending profiles  
+assembly - full STP assembly, preview it online at https://autode.sk/3tObyss  
+  
+  
 | Parts                         |    |
 | ----------------------------- | -- |
 | PANEL\_BACK\_FRONT            | 2  |
@@ -44,7 +45,6 @@ assembly caontains full STP assembly, and you can preview it online at https://a
 | 6802                          | 8  |
 | 6808                          | 4  |
 | F625                          | 2  |
-|                               |    |
 
 | Motor                         |    |
 | ----------------------------- | -- |
