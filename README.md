@@ -51,3 +51,12 @@ assembly - full STP assembly, preview it online at https://autode.sk/3tObyss
 | Motor                         |    |
 | ----------------------------- | -- |
 | APS5063 - 60kV                | 2  |
+
+| Motor pulley                  |    |
+| ----------------------------- | -- |
+| HTD-5M-14T                    | 2  |
+
+| Belts                  		|    |
+| ----------------------------- | -- |
+| HTD-405-5M/15                 | 1  |
+| HTD-350-5M/15                 | 1  |
